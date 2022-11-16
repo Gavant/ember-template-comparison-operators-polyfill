@@ -1,14 +1,12 @@
 # ember-template-comparison-operators-polyfill
 
-[Short description of the addon.]
-
+https://rfcs.emberjs.com/id/0561-add-numeric-comparison-operators/
 
 ## Compatibility
 
-* Ember.js v3.28 or above
-* Ember CLI v3.28 or above
-* Node.js v14 or above
-
+- Ember.js v3.28 or above
+- Ember CLI v3.28 or above
+- Node.js v14 or above
 
 ## Installation
 
@@ -16,16 +14,13 @@
 ember install ember-template-comparison-operators-polyfill
 ```
 
-
 ## Usage
 
-[Longer description of how to use the addon in apps.]
-
+https://rfcs.emberjs.com/id/0561-add-numeric-comparison-operators/
 
 ## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
-
 
 ## License
 
